@@ -1,0 +1,160 @@
+@media screen and (max-width:1399px) {}
+
+
+@media screen and (max-width:1199px) {
+    html {
+        font-size: 15px;
+    }
+    .home_top_picks_card h3 {
+        font-size: 2.3rem;
+    }
+    .hotel_cards {
+        padding: 1.875rem;
+    }
+    .hotel_cards_info h2 {
+        font-size: 2rem;
+    }
+    .vegas_tips_page_sec .home_top_picks_card h3, .pro_tip h3 {
+        font-size: 2.1rem;
+    }
+
+}
+
+
+
+@media screen and (max-width:991px) {
+    .hotel_cards_image {
+        height: 300px;
+        display: block;
+    }
+    .hotel_cards {
+        background: #1c1c1a !important;
+        border-color: #af8c3e;
+        padding: 0;
+    }
+    .text_part {
+        padding: 0 !important;
+    }
+    .text_part h2 {
+        font-size: 2rem;
+    }
+    .img_part {
+        height: 18.75rem;
+        margin-bottom: 30px;
+    }
+    .home_top_picks_card_outer {
+        min-height: 100%;
+    }
+    .vegas_tips_page_sec .home_top_picks_card h3, .pro_tip h3 {
+        font-size: 2.1rem;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+    html {
+        font-size: 14px;
+    }
+    .copy_txt p {
+        text-align: center;
+    }
+    .ssl_certi {
+        justify-content: center;
+    }
+    .pb-7 {
+        padding-bottom: 3.375rem;
+    }
+    .pt-7 {
+        padding-top: 3.375rem;
+    }
+    .py-7 {
+        padding: 3.375rem 0;
+    }
+    .contact-card1-image {
+        height: 18.75rem;
+    }
+
+
+}
+
+@media screen and (max-width:575px) {
+    .navigation-menu {
+        width: 100%;
+    }
+    .banner_box h1 {
+        font-size: 2.4rem;
+    }
+    .home_banner {
+        height: 29.625rem;
+    }
+    .home_hotel_cat_card_img {
+        height: 18.75rem;
+    }
+    .section_heading {
+        font-size: 2.4rem;
+    }
+    .home_top_picks_card h3 {
+        font-size: 2.2rem;
+    }
+    .home_cards-content p {
+        font-size: 1.1rem;
+    }
+    .home_tips_cards_img {
+        height: 17rem;
+    }
+    .newslettr_wrap h4 {
+        font-size: 1.5rem;
+    }
+    .links_footr ul li a {
+        font-size: 1.2rem;
+    }
+    .footr_blcks h3 {
+        font-size: 1.6rem;
+    }
+    .disclaimer p {
+        font-size: 1rem;
+    }
+    .hotel_cards_info h2 {
+        font-size: 2.1rem;
+    }
+    .contact_page_form_sec h3 {
+        font-size: 2.6rem;
+    }
+    .py-5 {
+        padding-top: 2rem!important;
+        padding-bottom: 2rem!important;
+    }
+    .accordion-header .accordion-button {
+        font-size: 1.4rem;
+    }
+
+    .home_top_picks_card {
+        padding: 2.5rem 1.2rem;
+    }
+    .vegas_tips_page_sec .home_top_picks_card h3, .pro_tip h3 {
+        font-size: 2.1rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+
+    .section_heading {
+        font-size: 2.1rem;
+    }
+    .butn {
+        font-size: 1rem;
+        padding: 0.9375rem 1.1rem;
+    }
+    .home_hotel_cat_card_text p {
+        padding: 0.625rem;
+    }
+    .brand-container a, .footer_logo a {
+        width: 14.75rem;
+    }
+    .banner_box h1 {
+        font-size: 2.1rem;
+    }
+    .ssl_certi_inner {
+        width: 10.5rem;
+    }
+}
